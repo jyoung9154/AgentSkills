@@ -1,4 +1,4 @@
-# Antigravity Agents - Localized Skills (KR) `v1.1.0`
+# Antigravity Agents - Localized Skills (KR) `v1.2.0`
 
 이 저장소는 **안티그래비티(Antigravity)** 프레임워크를 위해 한국 시장에 맞춰 개발된 전문 에이전트 스킬 라이브러리입니다. 130개 이상의 다양한 에이전트들이 한국의 비즈니스 환경, 기술 스택, 그리고 관련 규제에 최적으로 대응할 수 있도록 설계되었으며, 지속적으로 개선 및 업데이트되고 있습니다.
 
