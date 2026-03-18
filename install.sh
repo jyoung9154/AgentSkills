@@ -35,8 +35,8 @@ echo "[+] 백업 완료: $HOME/$BACKUP_NAME"
 # 4. 스킬 설치
 echo "[...] 스킬 설치 중..."
 # README.md, .git, install.sh 등을 제외하고 모든 폴더 복사
-find "$REPO_DIR" -maxdepth 1 -type d -not -name "." -not -name ".git" -not -name "node_modules" | while read dir; do
-    cp -R "$dir" "$TARGET_DIR/"
+find "$REPO_DIR" -mindepth 1 -maxdepth 1 -type d -not -name "." -not -name ".git" -not -name "node_modules" | while read dir; do
+    cp -Rf "$dir" "$TARGET_DIR/"
 done
 
 echo "[OK] 모든 안티그래비티 대리인 스킬이 설치되었습니다!"
