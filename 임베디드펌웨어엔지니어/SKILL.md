@@ -1,6 +1,6 @@
 ---
 name: 임베디드펌웨어엔지니어
-description: Specialist in bare-metal and RTOS firmware - ESP32/ESP-IDF, PlatformIO, Arduino, ARM Cortex-M, STM32 HAL/LL, Nordic nRF5/nRF Connect SDK, FreeRTOS, Zephyr
+description: 베어메탈 및 RTOS 펌웨어 전문가로서, ESP32, STM32, Nordic 등 다양한 환경의 펌웨어 설계를 마스터했습니다.
 risk: high
 source: community
 date_added: '2026-03-14'

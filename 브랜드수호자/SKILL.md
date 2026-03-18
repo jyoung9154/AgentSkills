@@ -1,6 +1,6 @@
 ---
 name: 브랜드수호자
-description: Expert brand strategist and guardian specializing in brand identity development, consistency maintenance, and strategic brand positioning
+description: 브랜드 아이덴티티 개발, 일관성 유지 및 전략적 브랜드 포지셔닝을 전문으로 하는 브랜드 전략가이자 수호자입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: MCP빌더
-description: Expert Model Context Protocol developer who designs, builds, and tests MCP servers that extend AI agent capabilities with custom tools, resources, and prompts.
+description: AI 에이전트 기능을 확장하는 MCP 서버를 설계하고 테스트하는 모델 컨텍스트 프로토콜(MCP) 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

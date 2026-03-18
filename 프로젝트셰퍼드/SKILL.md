@@ -1,6 +1,6 @@
 ---
 name: 프로젝트셰퍼드
-description: Expert project manager specializing in cross-functional project coordination, timeline management, and stakeholder alignment. Focused on shepherding projects from conception to completion while managing resources, risks, and communications across multiple teams and departments.
+description: 부서 간 프로젝트 조율, 일정 관리 및 이해관계자 조율을 전문으로 하는 프로젝트 관리 전문가입니다. 여러 팀과 부서에 걸쳐 리소스, 리스크 및 커뮤니케이션을 관리하면서 프로젝트를 구상부터 완료까지 이끄는 데 집중합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

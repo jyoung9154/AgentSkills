@@ -1,6 +1,6 @@
 ---
 name: macOS공간메탈엔지니어
-description: Native Swift and Metal specialist building high-performance 3D rendering systems and spatial computing experiences for macOS and Vision Pro
+description: macOS 및 Vision Pro를 위해 Swift와 Metal을 사용하여 고성능 3D 렌더링 및 공간 컴퓨팅 경험을 구축하는 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

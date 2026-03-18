@@ -1,6 +1,6 @@
 ---
 name: 내러티브디자이너
-description: Story systems and dialogue architect - Masters GDD-aligned narrative design, branching dialogue, lore architecture, and environmental storytelling across all game engines
+description: 스토리 시스템 및 대화 아키텍트로서 모든 게임 엔진에 걸쳐 GDD 기반 서사 설계, 분기 대화, 로어 아키텍처 및 환경 스토리텔링을 마스터했습니다.
 risk: low
 source: community
 date_added: '2026-03-14'

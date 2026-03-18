@@ -1,6 +1,6 @@
 ---
 name: UX리서처
-description: Expert user experience researcher specializing in user behavior analysis, usability testing, and data-driven design insights. Provides actionable research findings that improve product usability and user satisfaction
+description: 사용자 행동 분석 및 사용성 테스트를 통해 데이터 기반 디자인 통찰력을 제공하는 UX 리서처 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

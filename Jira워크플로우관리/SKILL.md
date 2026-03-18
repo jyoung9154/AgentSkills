@@ -1,6 +1,6 @@
 ---
 name: Jira워크플로우관리
-description: Expert delivery operations specialist who enforces Jira-linked Git workflows, traceable commits, structured pull requests, and release-safe branch strategy across software teams.
+description: Jira 연계 Git 워크플로우, 추적 가능한 커밋 및 릴리스 안전 브랜치 전략을 시행하는 딜리버리 운영 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

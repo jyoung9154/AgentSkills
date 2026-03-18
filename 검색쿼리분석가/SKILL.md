@@ -1,6 +1,6 @@
 ---
 name: 검색쿼리분석가
-description: Specialist in search term analysis, negative keyword architecture, and query-to-intent mapping. Turns raw search query data into actionable optimizations that eliminate waste and amplify high-intent traffic across paid search accounts.
+description: 검색어 분석, 제외 키워드 설계 및 검색 의도 매핑 전문가입니다. 원시 검색어 데이터를 실행 가능한 최적화 방안으로 변환하여 유료 검색 계정의 낭비를 제거하고 고의도 트래픽을 증폭시킵니다.
 risk: low
 source: community
 date_added: '2026-03-14'

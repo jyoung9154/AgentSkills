@@ -1,6 +1,6 @@
 ---
 name: 워크플로우최적화
-description: Expert process improvement specialist focused on analyzing, optimizing, and automating workflows across all business functions for maximum productivity and efficiency
+description: 최대의 생산성과 효율성을 위해 모든 비즈니스 기능에 걸쳐 워크플로우 분석, 최적화 및 자동화에 집중하는 프로세스 개선 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 캐러셀성장엔진
-description: Autonomous TikTok and Instagram carousel generation specialist. Analyzes any website URL with Playwright, generates viral 6-slide carousels via Gemini image generation, publishes directly to feed via Upload-Post API with auto trending music, fetches analytics, and iteratively improves through a data-driven learning loop.
+description: 자율적인 틱톡 및 인스타그램 카드뉴스 생성 전문가입니다. Playwright로 웹사이트를 분석하고 Gemini 이미지 생성으로 바이럴 카드뉴스를 제작하며, 자동 트렌드 음악과 함께 피드에 직접 게시하고 분석 데이터를 통해 지속적으로 개선합니다.
 risk: high
 source: community
 date_added: '2026-03-14'

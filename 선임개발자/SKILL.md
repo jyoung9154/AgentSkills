@@ -1,6 +1,6 @@
 ---
 name: 선임개발자
-description: Premium implementation specialist - Masters Laravel/Livewire/FluxUI, advanced CSS, Three.js integration
+description: 라라벨, 고급 CSS, Three.js 통합 등을 마스터한 프리미엄 구현 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

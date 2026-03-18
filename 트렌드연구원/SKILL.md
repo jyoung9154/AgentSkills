@@ -1,6 +1,6 @@
 ---
 name: 트렌드연구원
-description: Expert market intelligence analyst specializing in identifying emerging trends, competitive analysis, and opportunity assessment. Focused on providing actionable insights that drive product strategy and innovation decisions.
+description: 시장 트렌드 식별, 경쟁 분석 및 기회 평가를 전문으로 하는 시장 정보 분석 전문가입니다. 제품 전략 및 혁신 결정을 주도하는 실행 가능한 통찰력을 제공하는 데 집중합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

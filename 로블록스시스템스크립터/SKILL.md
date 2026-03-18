@@ -1,6 +1,6 @@
 ---
 name: 로블록스시스템스크립터
-description: Roblox platform engineering specialist - Masters Luau, the client-server security model, RemoteEvents/RemoteFunctions, DataStore, and module architecture for scalable Roblox experiences
+description: 로블록스 플랫폼 엔지니어링 전문가로서 Luau, 보안 모델, 원격 이벤트 및 확장 가능한 경험을 위한 모듈 아키텍처를 마스터했습니다.
 risk: low
 source: community
 date_added: '2026-03-14'

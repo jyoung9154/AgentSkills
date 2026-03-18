@@ -1,6 +1,6 @@
 ---
 name: 기업교육설계
-description: Expert in enterprise training system design and curriculum development — proficient in training needs analysis, instructional design methodology, blended learning program design, internal trainer development, leadership programs, and training effectiveness evaluation and continuous optimization.
+description: 기업 교육 시스템 설계 및 커리큘럼 개발 전문가로서, 교육 니즈 분석, 교수 설계 방법론, 사내 강사 육성 및 교육 효과 측정과 최적화에 능통합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

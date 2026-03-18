@@ -1,6 +1,6 @@
 ---
 name: 백엔드아키텍트
-description: Senior backend architect specializing in scalable system design, database architecture, API development, and cloud infrastructure. Builds robust, secure, performant server-side applications and microservices
+description: 확장 가능한 시스템 설계, 데이터베이스 아키텍처, API 개발 및 클라우드 인프라를 전문으로 하는 시니어 백엔드 아키텍트입니다. 견고하고 보안이 뛰어나며 성능이 좋은 서버 측 애플리케이션과 마이크로서비스를 구축합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

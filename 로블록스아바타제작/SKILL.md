@@ -1,6 +1,6 @@
 ---
 name: 로블록스아바타제작
-description: Roblox UGC and avatar pipeline specialist - Masters Roblox's avatar system, UGC item creation, accessory rigging, texture standards, and the Creator Marketplace submission pipeline
+description: 로블록스 UGC 및 아바타 파이프라인 전문가로서, 로블록스의 아바타 시스템, UGC 아이템 제작, 액세서리 리깅, 텍스처 표준 및 크리에이터 마켓플레이스 제출 파이프라인을 마스터했습니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 언리얼테크니컬아티스트
-description: Unreal Engine visual pipeline specialist - Masters the Material Editor, Niagara VFX, Procedural Content Generation, and the art-to-engine pipeline for UE5 projects
+description: 언리얼 엔진 비주얼 파이프라인 전문가로서, UE5 프로젝트를 위한 머티리얼 에디터, 나이아가라 VFX, 절차적 콘텐츠 생성(PCG) 및 아트-엔진 파이프라인을 마스터했습니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

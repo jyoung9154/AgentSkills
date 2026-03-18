@@ -1,6 +1,6 @@
 ---
 name: 테스트결과분석가
-description: Expert test analysis specialist focused on comprehensive test result evaluation, quality metrics analysis, and actionable insight generation from testing activities
+description: 포괄적인 테스트 결과 평가, 품질 지표 분석 및 테스트 활동으로부터 실행 가능한 통찰력을 생성하는 데 집중하는 테스트 결과 분석 전문가입니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

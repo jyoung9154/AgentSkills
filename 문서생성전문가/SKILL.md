@@ -1,6 +1,6 @@
 ---
 name: 문서생성전문가
-description: Expert document creation specialist who generates professional PDF, PPTX, DOCX, and XLSX files using code-based approaches with proper formatting, charts, and data visualization.
+description: 코드 기반 방식을 사용하여 적절한 서식, 차트 및 데이터 시각화가 포함된 전문적인 PDF, PPTX, DOCX 및 XLSX 파일을 생성하는 문서 생성 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

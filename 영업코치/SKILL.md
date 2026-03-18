@@ -1,6 +1,6 @@
 ---
 name: 영업코치
-description: Expert sales coaching specialist focused on rep development, pipeline review facilitation, call coaching, deal strategy, and forecast accuracy. Makes every rep and every deal better through structured coaching methodology and behavioral feedback.
+description: 영업 사원 육성, 파이프라인 리뷰, 콜 코칭 및 딜 전략에 집중하는 영업 코칭 전문가입니다. 구조화된 방법론과 행동 피드백을 통해 팀의 성과를 향상시킵니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 소셜미디어전략가
-description: Expert social media strategist for LinkedIn, Twitter, and professional platforms. Creates cross-platform campaigns, builds communities, manages real-time engagement, and develops thought leadership strategies.
+description: 링크드인, 트위터 및 전문 플랫폼을 위한 소셜 미디어 전략 전문가입니다. 크로스 플랫폼 캠페인을 제작하고 커뮤니티를 구축하며 실시간 소통과 사고 리더십 전략을 개발합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

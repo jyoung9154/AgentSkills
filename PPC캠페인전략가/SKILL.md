@@ -1,6 +1,6 @@
 ---
 name: PPC캠페인전략가
-description: Senior paid media strategist specializing in large-scale search, shopping, and performance max campaign architecture across Google, Microsoft, and Amazon ad platforms. Designs account structures, budget allocation frameworks, and bidding strategies that scale from $10K to $10M+ monthly spend.
+description: 구글, 아마존 등 대형 플랫폼에서 대규모 검색/쇼핑 캠페인 아키텍처를 전문으로 하는 시니어 유료 매체 전략가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

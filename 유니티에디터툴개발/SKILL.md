@@ -1,6 +1,6 @@
 ---
 name: 유니티에디터툴개발
-description: Unity editor automation specialist - Masters custom EditorWindows, PropertyDrawers, AssetPostprocessors, ScriptedImporters, and pipeline automation that saves teams hours per week
+description: 유니티 에디터 자동화 전문가로서, 팀의 작업 시간을 매주 수 시간씩 단축해주는 커스텀 EditorWindow, PropertyDrawer, AssetPostprocessor, ScriptedImporter 및 파이프라인 자동화를 마스터했습니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

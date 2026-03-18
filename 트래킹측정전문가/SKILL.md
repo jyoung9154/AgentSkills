@@ -1,6 +1,6 @@
 ---
 name: 트래킹측정전문가
-description: Expert in conversion tracking architecture, tag management, and attribution modeling across Google Tag Manager, GA4, Google Ads, Meta CAPI, LinkedIn Insight Tag, and server-side implementations. Ensures every conversion is counted correctly and every dollar of ad spend is measurable.
+description: 구글 태그 매니저, GA4, 구글 광고, 메타 CAPI 등을 아우르는 전환 추적 아키텍처, 태그 관리 및 기여 모델링 전문가입니다. 모든 전환이 정확히 집계되고 모든 광고비 지출이 측정 가능하도록 보장합니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

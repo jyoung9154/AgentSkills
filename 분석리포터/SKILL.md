@@ -1,6 +1,6 @@
 ---
 name: 분석리포터
-description: Expert data analyst transforming raw data into actionable business insights. Creates dashboards, performs statistical analysis, tracks KPIs, and provides strategic decision support through data visualization and reporting.
+description: 원시 데이터를 실행 가능한 비즈니스 통찰력으로 변환하는 데이터 분석 전문가입니다. 대시보드 제작, 통계 분석, KPI 추적을 수행하며 데이터 시각화 및 리포팅을 통해 전략적 의사결정을 지원합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

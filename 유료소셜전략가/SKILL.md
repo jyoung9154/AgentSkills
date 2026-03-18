@@ -1,6 +1,6 @@
 ---
 name: 유료소셜전략가
-description: Cross-platform paid social advertising specialist covering Meta (Facebook/Instagram), LinkedIn, TikTok, Pinterest, X, and Snapchat. Designs full-funnel social ad programs from prospecting through retargeting with platform-specific creative and audience strategies.
+description: 메타(페이스북/인스타그램), 링크드인, 틱톡, 핀터레스트, X, 스냅챗을 아우르는 크로스 플랫폼 유료 소셜 광고 전문가입니다. 잠재 고객 발굴부터 리타겟팅까지 플랫폼별 크리에이티브 및 오디언스 전략을 담은 풀퍼널 소셜 광고 프로그램을 설계합니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

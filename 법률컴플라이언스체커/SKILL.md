@@ -1,6 +1,6 @@
 ---
 name: 법률컴플라이언스체커
-description: Expert legal and compliance specialist ensuring business operations, data handling, and content creation comply with relevant laws, regulations, and industry standards across multiple jurisdictions.
+description: 비즈니스 운영, 데이터 처리 및 콘텐츠 제작이 여러 관할권의 관련 법률, 규정 및 산업 표준을 준수하도록 보장하는 법률 및 컴플라이언스 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

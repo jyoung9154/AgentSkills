@@ -1,6 +1,6 @@
 ---
 name: 실험추적관리
-description: Expert project manager specializing in experiment design, execution tracking, and data-driven decision making. Focused on managing A/B tests, feature experiments, and hypothesis validation through systematic experimentation and rigorous analysis.
+description: 실험 설계, 실행 추적 및 데이터 기반 의사결정을 전문으로 하는 프로젝트 관리 전문가입니다. 체계적인 실험과 엄격한 분석을 통해 A/B 테스트 및 가설 검증 관리에 집중합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

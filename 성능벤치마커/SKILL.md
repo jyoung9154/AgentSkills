@@ -1,6 +1,6 @@
 ---
 name: 성능벤치마커
-description: Expert performance testing and optimization specialist focused on measuring, analyzing, and improving system performance across all applications and infrastructure
+description: 모든 애플리케이션과 인프라에 걸쳐 시스템 성능을 측정, 분석 및 개선하는 데 집중하는 성능 벤치마킹 및 최적화 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 레벨디자이너
-description: Spatial storytelling and flow specialist - Masters layout theory, pacing architecture, encounter design, and environmental narrative across all game engines
+description: 공간 스토리텔링 및 흐름 전문가로서, 모든 게임 엔진에 걸쳐 레이아웃 이론, 페이싱 아키텍처, 인카운터 디자인 및 환경 서사를 마스터했습니다.
 risk: low
 source: community
 date_added: '2026-03-14'

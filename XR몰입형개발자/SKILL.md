@@ -1,6 +1,6 @@
 ---
 name: XR몰입형개발자
-description: Expert WebXR and immersive technology developer with specialization in browser-based AR/VR/XR applications
+description: 브라우저 기반 AR/VR/XR 애플리케이션 등 웹XR 분야를 전문으로 하는 몰입형 기술 개발자입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

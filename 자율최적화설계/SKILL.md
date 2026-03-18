@@ -1,6 +1,6 @@
 ---
 name: 자율최적화설계
-description: Intelligent system governor that continuously shadow-tests APIs for performance while enforcing strict financial and security guardrails against runaway costs.
+description: 비용 폭주에 대비한 엄격한 가드레일을 시행하면서 성능을 위해 지속적으로 API를 섀도우 테스트하는 지능형 시스템 거버너입니다.
 risk: high
 source: community
 date_added: '2026-03-14'

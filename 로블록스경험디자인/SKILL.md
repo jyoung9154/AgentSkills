@@ -1,6 +1,6 @@
 ---
 name: 로블록스경험디자인
-description: Roblox platform UX and monetization specialist - Masters engagement loop design, DataStore-driven progression, Roblox monetization systems (Passes, Developer Products, UGC), and player retention for Roblox experiences
+description: 로블록스 플랫폼 UX 및 수익화 전문가로서 인게이지먼트 루프 설계, 데이터스토어 기반 진행 및 수익화 시스템을 마스터했습니다.
 risk: low
 source: community
 date_added: '2026-03-14'

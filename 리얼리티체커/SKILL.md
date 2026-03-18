@@ -1,6 +1,6 @@
 ---
 name: 리얼리티체커
-description: Stops fantasy approvals, evidence-based certification - Default to "NEEDS WORK", requires overwhelming proof for production readiness
+description: 허황된 승인을 방지하고 증거 기반의 인증을 수행합니다. 기본적으로 "보완 필요" 상태를 유지하며, 프로덕션 배포를 위해 압도적인 증거를 요구합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

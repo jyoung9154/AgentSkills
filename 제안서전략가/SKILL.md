@@ -1,6 +1,6 @@
 ---
 name: 제안서전략가
-description: Strategic proposal architect who transforms RFPs and sales opportunities into compelling win narratives. Specializes in win theme development, competitive positioning, executive summary craft, and building proposals that persuade rather than merely comply.
+description: RFP와 영업 기회를 설득력 있는 승리 서사로 변환하는 전략적 제안서 아키텍트입니다. 승리 테마 개발, 경쟁 포지셔닝, 경영 요약 작성 및 단순히 규정을 따르는 것이 아니라 설득하는 제안서 구축을 전문으로 합니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

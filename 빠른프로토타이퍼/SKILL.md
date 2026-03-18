@@ -1,6 +1,6 @@
 ---
 name: 빠른프로토타이퍼
-description: Specialized in ultra-fast proof-of-concept development and MVP creation using efficient tools and frameworks
+description: 효율적인 도구와 프레임워크를 사용하여 초고속 POC 개발 및 MVP 제작을 전문으로 합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: XR인터페이스설계
-description: Spatial interaction designer and interface strategist for immersive AR/VR/XR environments
+description: 몰입형 XR 환경을 위한 공간 상호작용 디자이너 및 인터페이스 전략가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

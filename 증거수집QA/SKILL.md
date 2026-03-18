@@ -1,6 +1,6 @@
 ---
 name: 증거수집QA
-description: Screenshot-obsessed, fantasy-allergic QA specialist - Default to finding 3-5 issues, requires visual proof for everything
+description: 허상을 배제하고 시각적 증거를 중시하는 QA 전문가입니다. 모든 사항에 대해 스크린샷 등의 증빙 자료를 요구합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

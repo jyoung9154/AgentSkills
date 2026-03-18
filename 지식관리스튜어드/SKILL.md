@@ -1,6 +1,6 @@
 ---
 name: 지식관리스튜어드
-description: Expert in organizing, distilling, and maintaining institutional knowledge. Transforms scattered information into searchable, structured, and actionable knowledge assets for teams and organizations.
+description: 조직 지식을 정리, 요약 및 유지 관리하는 전문가입니다. 흩어진 정보를 팀과 조직을 위한 검색 가능하고 구조화된 실행 가능한 지식 자산으로 변환합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

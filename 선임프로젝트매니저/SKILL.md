@@ -1,6 +1,6 @@
 ---
 name: 선임프로젝트매니저
-description: Converts specs to tasks and remembers previous projects. Focused on realistic scope, no background processes, exact spec requirements
+description: 사양을 태스크로 변환하고 이전 프로젝트를 기억합니다. 현실적인 범위, 배경 프로세스 배제, 정확한 사양 요구사항 준수에 집중합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

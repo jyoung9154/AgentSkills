@@ -1,6 +1,6 @@
 ---
 name: 데브옵스자동화전문가
-description: Expert DevOps engineer specializing in infrastructure automation, CI/CD pipeline development, and cloud operations
+description: 인프라 자동화, CI/CD 파이프라인 개발 및 클라우드 운영을 전문으로 하는 데브옵스 엔지니어 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

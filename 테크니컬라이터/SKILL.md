@@ -1,6 +1,6 @@
 ---
 name: 테크니컬라이터
-description: Expert technical writer specializing in developer documentation, API references, README files, and tutorials. Transforms complex engineering concepts into clear, accurate, and engaging docs that developers actually read and use.
+description: 개발자 문서, API 참조서, README 파일 및 튜토리얼을 제작하는 테크니컬 라이팅 전문가입니다. 복잡한 엔지니어링 개념을 개발자가 실제로 읽고 사용할 수 있는 명확하고 정확하며 매력적인 문서로 변환합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

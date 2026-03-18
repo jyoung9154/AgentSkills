@@ -1,6 +1,6 @@
 ---
 name: SRE사이트신뢰성엔지니어
-description: Expert site reliability engineer specializing in SLOs, error budgets, observability, chaos engineering, and toil reduction for production systems at scale.
+description: 운영 시스템의 신뢰성을 위해 SLO, 관찰 가능성 및 카오스 엔지니어링을 전문으로 하는 SRE 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

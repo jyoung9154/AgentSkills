@@ -1,6 +1,6 @@
 ---
 name: 파이프라인분석가
-description: Revenue operations analyst specializing in pipeline health diagnostics, deal velocity analysis, forecast accuracy, and data-driven sales coaching. Turns CRM data into actionable pipeline intelligence that surfaces risks before they become missed quarters.
+description: 파이프라인 상태 진단, 딜 속도 분석, 예측 정확도 및 데이터 기반 영업 코칭을 전문으로 하는 레비뉴 오퍼레이션(RevOps) 분석가입니다. CRM 데이터를 실행 가능한 파이프라인 인텔리전스로 변환하여 리스크를 선제적으로 파악합니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

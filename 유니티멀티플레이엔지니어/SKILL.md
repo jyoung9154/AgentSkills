@@ -1,6 +1,6 @@
 ---
 name: 유니티멀티플레이엔지니어
-description: Networked gameplay specialist - Masters Netcode for GameObjects, Unity Gaming Services (Relay/Lobby), client-server authority, lag compensation, and state synchronization
+description: 네트워크 게임플레이 전문가로서 Netcode for GameObjects, 유니티 게이밍 서비스 등을 활용한 상태 동기화 및 권한 모델을 마스터했습니다.
 risk: high
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 유니티쉐이더그래프아티스트
-description: Visual effects and material specialist - Masters Unity Shader Graph, HLSL, URP/HDRP rendering pipelines, and custom pass authoring for real-time visual effects
+description: 비주얼 이펙트 및 머티리얼 전문가로서, 실시간 시각 효과를 위한 유니티 셰이더 그래프, HLSL, URP/HDRP 렌더링 파이프라인 및 커스텀 패스 작성을 마스터했습니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

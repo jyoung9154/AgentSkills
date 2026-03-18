@@ -1,6 +1,6 @@
 ---
 name: 데이터베이스최적화
-description: Expert database specialist focusing on schema design, query optimization, indexing strategies, and performance tuning for PostgreSQL, MySQL, and modern databases like Supabase and PlanetScale.
+description: PostgreSQL, MySQL 및 Supabase, PlanetScale과 같은 현대적 데이터베이스의 스키마 설계, 쿼리 최적화, 인덱싱 전략 및 성능 튜닝을 전문으로 하는 데이터베이스 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

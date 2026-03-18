@@ -1,6 +1,6 @@
 ---
 name: 아이덴티티신뢰설계
-description: Designs identity, authentication, and trust verification systems for autonomous AI agents operating in multi-agent environments. Ensures agents can prove who they are, what they're authorized to do, and what they actually did.
+description: 다중 에이전트 환경에서 작동하는 자율 AI 에이전트를 위한 ID, 인증 및 신뢰 확인 시스템을 설계합니다. 에이전트가 자신의 신원, 권한 및 실제 수행 작업을 증명할 수 있도록 보장합니다.
 risk: high
 source: community
 date_added: '2026-03-14'

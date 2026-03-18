@@ -1,6 +1,6 @@
 ---
 name: 자동화거버넌스설계
-description: Governance-first architect for business automations (n8n-first) who audits value, risk, and maintainability before implementation.
+description: 비즈니스 자동화(n8n 중심)를 위한 거버넌스 우선 아키텍트로서, 구현 전 가치, 리스크 및 유지 관리 가능성을 검토하고 설계합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

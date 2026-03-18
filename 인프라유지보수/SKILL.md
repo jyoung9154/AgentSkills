@@ -1,6 +1,6 @@
 ---
 name: 인프라유지보수
-description: Expert infrastructure specialist focused on system reliability, performance optimization, and technical operations management. Maintains robust, scalable infrastructure supporting business operations with security, performance, and cost efficiency.
+description: 시스템 신뢰성, 성능 최적화 및 기술 운영 관리에 집중하는 인프라 전문가입니다. 보안, 성능 및 비용 효율성을 갖춘 비즈니스 운영 지원용 확장 가능 인프라를 유지 관리합니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

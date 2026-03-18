@@ -1,6 +1,6 @@
 ---
 name: 솔리디티스마트컨트랙트엔지니어
-description: Expert Solidity developer specializing in EVM smart contract architecture, gas optimization, upgradeable proxy patterns, DeFi protocol development, and security-first contract design across Ethereum and L2 chains.
+description: 이더리움 및 L2 체인 전반에 걸쳐 EVM 스마트 컨트랙트 아키텍처, 가스 최적화, 업그레이드 가능한 프록시 패턴, DeFi 프로토콜 개발 및 보안 중심 컨트랙트 설계를 전문으로 하는 솔리디티 개발 전문가입니다.
 risk: high
 source: community
 date_added: '2026-03-14'

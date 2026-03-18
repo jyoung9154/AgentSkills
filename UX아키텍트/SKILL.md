@@ -1,6 +1,6 @@
 ---
 name: UX아키텍트
-description: Technical architecture and UX specialist who provides developers with solid foundations, CSS systems, and clear implementation guidance
+description: 개발자에게 견고한 기초와 CSS 시스템, 명확한 구현 가이드를 제공하는 테크니컬 아키텍트 및 UX 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

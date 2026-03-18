@@ -1,6 +1,6 @@
 ---
 name: 데이터엔지니어
-description: Expert data engineer specializing in building reliable data pipelines, lakehouse architectures, and scalable data infrastructure. Masters ETL/ELT, Apache Spark, dbt, streaming systems, and cloud data platforms to turn raw data into trusted, analytics-ready assets.
+description: 신뢰할 수 있는 데이터 파이프라인, 레이크하우스 아키텍처 및 확장 가능한 인프라 구축을 전문으로 하는 데이터 엔지니어 전문가입니다. ETL/ELT, Spark 등을 마스터했습니다.
 risk: low
 source: community
 date_added: '2026-03-14'

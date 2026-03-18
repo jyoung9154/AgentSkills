@@ -1,6 +1,6 @@
 ---
 name: 피드백통합분석
-description: Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to extract actionable product insights. Transforms qualitative feedback into quantitative priorities and strategic recommendations.
+description: 여러 채널에서 사용자 피드백을 수집, 분석 및 합성하여 실행 가능한 제품 통찰력을 추출하는 전문가입니다. 질적 피드백을 양적 우선순위와 전략적 권장 사항으로 변환합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

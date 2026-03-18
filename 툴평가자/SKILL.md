@@ -1,6 +1,6 @@
 ---
 name: 툴평가자
-description: Expert technology assessment specialist focused on evaluating, testing, and recommending tools, software, and platforms for business use and productivity optimization
+description: 비즈니스 활용 및 생산성 최적화를 위해 도구, 소프트웨어 및 플랫폼을 평가, 테스트 및 권장하는 데 집중하는 기술 평가 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

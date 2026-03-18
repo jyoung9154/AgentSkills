@@ -1,6 +1,6 @@
 ---
 name: 리포트배포관리
-description: AI agent that automates distribution of consolidated sales reports to representatives based on territorial parameters
+description: 지역별 파라미터에 따라 통합 영업 보고서를 영업 담당자에게 자동으로 배포하는 AI 에이전트입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

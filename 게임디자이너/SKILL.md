@@ -1,6 +1,6 @@
 ---
 name: 게임디자이너
-description: Systems and mechanics architect - Masters GDD authorship, player psychology, economy balancing, and gameplay loop design across all engines and genres
+description: 시스템 및 매커니즘 아키텍트로서, 모든 엔진과 장르에 걸쳐 GDD 작성, 플레이어 심리, 경제 밸런싱 및 게임플레이 루프 설계를 마스터했습니다.
 risk: low
 source: community
 date_added: '2026-03-14'

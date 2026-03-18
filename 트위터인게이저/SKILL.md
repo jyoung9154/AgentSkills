@@ -1,6 +1,6 @@
 ---
 name: 트위터인게이저
-description: Expert Twitter marketing specialist focused on real-time engagement, thought leadership building, and community-driven growth. Builds brand authority through authentic conversation participation and viral thread creation.
+description: 실시간 소통, 사고 리더십 구축 및 커뮤니티 기반 성장에 집중하는 트위터 마케팅 전문가입니다. 진정성 있는 대화 참여와 바이럴 스레드 제작을 통해 브랜드 권위를 구축합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

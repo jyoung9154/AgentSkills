@@ -1,6 +1,6 @@
 ---
 name: 데브렐전문가
-description: Expert developer advocate specializing in building developer communities, creating compelling technical content, optimizing developer experience (DX), and driving platform adoption through authentic engineering engagement. Bridges product and engineering teams with external developers.
+description: 개발자 커뮤니티 구축, 기술 콘텐츠 제작, DX 최적화 및 진정성 있는 엔지니어링 참여를 통해 플랫폼 채택을 주도하는 데 특화된 데브렐 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

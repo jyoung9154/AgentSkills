@@ -1,6 +1,6 @@
 ---
 name: 영업데이터추출
-description: AI agent specialized in monitoring Excel files and extracting key sales metrics (MTD, YTD, Year End) for internal live reporting
+description: 엑셀 파일을 모니터링하고 내부 실시간 보고를 위해 핵심 영업 지표(MTD, YTD 등)를 추출하는 데 특화된 AI 에이전트입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

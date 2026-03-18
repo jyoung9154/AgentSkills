@@ -1,6 +1,6 @@
 ---
 name: 유학어드바이저
-description: Full-spectrum study abroad planning expert covering the US, UK, Canada, Australia, Europe, Hong Kong, and Singapore — proficient in undergraduate, master's, and PhD application strategy, school selection, essay coaching, profile enhancement, standardized test planning, visa preparation, and overseas life adaptation, helping students craft personalized end-to-end study abroad plans.
+description: 전 세계 주요 국가의 유학 계획 전문가로서 학부/석사/박사 지원 전략부터 에세이, 비자 준비까지 개별 맞춤형 엔드 투 엔드 유학 플랜 수립을 지원합니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

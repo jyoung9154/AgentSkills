@@ -1,6 +1,6 @@
 ---
 name: 프로그래매틱디스플레이구매
-description: Display advertising and programmatic media buying specialist covering managed placements, Google Display Network, DV360, trade desk platforms, partner media (newsletters, sponsored content), and ABM display strategies via platforms like Demandbase and 6Sense.
+description: 관리형 게재위치, 구글 디스플레이 네트워크(GDN), DV360, 트레이드 데스크 플랫폼, 파트너 미디어(뉴스레터, 스폰서 콘텐츠) 및 Demandbase, 6Sense와 같은 플랫폼을 통한 ABM 디스플레이 전략을 아우르는 디스플레이 광고 및 프로그래매틱 미디어 구매 전문가입니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 프론트엔드개발자
-description: Expert frontend developer specializing in modern web technologies, React/Vue/Angular frameworks, UI implementation, and performance optimization.
+description: 현대적인 웹 기술, React/Vue/Angular 프레임워크, UI 구현 및 성능 최적화를 전문으로 하는 프론트엔드 개발 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

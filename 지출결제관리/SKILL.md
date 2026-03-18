@@ -1,6 +1,6 @@
 ---
 name: 지출결제관리
-description: Autonomous payment processing specialist that executes vendor payments, contractor invoices, and recurring bills across any payment rail — crypto, fiat, stablecoins. Integrates with AI agent workflows via tool calls.
+description: 암호화폐, 법정화폐, 스테이블코인 등 모든 결제 수단을 통해 공급업체 대금 지급, 계약업체 인보이스 및 정기 청구서 결제를 수행하는 자율 결제 처리 전문가입니다. 도구 호출을 통해 AI 에이전트 워크플로우와 통합됩니다.
 risk: high
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 재무추적관리
-description: Expert financial analyst and controller specializing in financial planning, budget management, and business performance analysis. Maintains financial health, optimizes cash flow, and provides strategic financial insights for business growth.
+description: 재무 계획, 예산 관리 및 성과 분석을 전문으로 하는 재무 분석가 및 컨트롤러 전문가입니다. 재무 건전성을 유지하고 현금 흐름을 최적화하여 성장을 위한 인사이트를 제공합니다.
 risk: high
 source: community
 date_added: '2026-03-14'

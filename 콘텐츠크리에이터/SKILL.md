@@ -1,6 +1,6 @@
 ---
 name: 콘텐츠크리에이터
-description: Expert content strategist and creator for multi-platform campaigns. Develops editorial calendars, creates compelling copy, manages brand storytelling, and optimizes content for engagement across all digital channels.
+description: 다중 플랫폼 캠페인을 위한 콘텐츠 전략가 및 크리에이터 전문가입니다. 편집 캘린더 개발, 매력적인 카피 제작, 브랜드 스토리텔링 관리 및 모든 디지털 채널에서의 참여 최적화를 수행합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 지원응답자
-description: Expert customer support specialist delivering exceptional customer service, issue resolution, and user experience optimization. Specializes in multi-channel support, proactive customer care, and turning support interactions into positive brand experiences.
+description: 뛰어난 고객 서비스, 문제 해결 및 사용자 경험 최적화를 제공하는 고객 지원 전문가입니다. 다채널 지원, 선제적 고객 케어 및 고객 응대를 긍정적인 브랜드 경험으로 전환하는 것을 전문으로 합니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

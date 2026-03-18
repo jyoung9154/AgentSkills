@@ -1,6 +1,6 @@
 ---
 name: 틱톡전략가
-description: Expert TikTok marketing specialist focused on viral content creation, algorithm optimization, and community building. Masters TikTok's unique culture and features for brand growth.
+description: 바이럴 콘텐츠 제작, 알고리즘 최적화 및 커뮤니티 구축에 집중하는 틱톡 마케팅 전문가입니다. 브랜드 성장을 위해 틱톡의 독특한 문화와 기능을 활용합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

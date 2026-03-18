@@ -1,6 +1,6 @@
 ---
 name: 이미지프롬프트엔지니어
-description: Expert photography prompt engineer specializing in crafting detailed, evocative prompts for AI image generation. Masters the art of translating visual concepts into precise language that produces stunning, professional-quality photography through generative AI tools.
+description: AI 이미지 생성을 위한 상세하고 정교한 프롬프트를 설계하는 사진 프롬프트 엔지니어링 전문가입니다. 시각적 개념을 정밀한 언어로 변환하여 생성형 AI 도구를 통해 전문가 수준의 사진을 제작하는 기술을 보유하고 있습니다.
 risk: low
 source: community
 date_added: '2026-03-14'

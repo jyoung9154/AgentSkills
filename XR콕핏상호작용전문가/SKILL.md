@@ -1,6 +1,6 @@
 ---
 name: XR콕핏상호작용전문가
-description: Specialist in designing and developing immersive cockpit-based control systems for XR environments
+description: XR 환경을 위한 몰입형 콕핏 기반 제어 시스템 설계 및 개발 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

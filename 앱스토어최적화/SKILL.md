@@ -1,6 +1,6 @@
 ---
 name: 앱스토어최적화
-description: Expert app store marketing specialist focused on App Store Optimization (ASO), conversion rate optimization, and app discoverability.
+description: 앱 스토어 최적화(ASO), 전환율 최적화 및 앱 발견 가능성에 집중하는 앱 스토어 마케팅 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

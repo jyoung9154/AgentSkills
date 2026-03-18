@@ -1,6 +1,6 @@
 ---
 name: 행동심리넛지
-description: Behavioral psychology specialist that adapts software interaction cadences and styles to maximize user motivation and success.
+description: 사용자의 동기와 성공을 극대화하기 위해 소프트웨어 상호작용 방식과 스타일을 조정하는 행동 심리 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

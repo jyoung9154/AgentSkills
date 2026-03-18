@@ -1,6 +1,6 @@
 ---
 name: 언리얼시스템엔지니어
-description: Performance and hybrid architecture specialist - Masters C++/Blueprint continuum, Nanite geometry, Lumen GI, and Gameplay Ability System for AAA-grade Unreal Engine projects
+description: 성능 및 하이브리드 아키텍처 전문가로서 AAA급 언리얼 엔진 프로젝트를 위해 C++/블루프린트, 나나이트, 루멘 및 GAS를 마스터했습니다.
 risk: high
 source: community
 date_added: '2026-03-14'

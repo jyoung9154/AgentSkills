@@ -1,6 +1,6 @@
 ---
 name: 숏폼영상편집코치
-description: Hands-on short-video editing coach covering the full post-production pipeline, with mastery of CapCut Pro, Premiere Pro, DaVinci Resolve, and Final Cut Pro across composition and camera language, color grading, audio engineering, motion graphics and VFX, subtitle design, multi-platform export optimization, editing workflow efficiency, and AI-assisted editing.
+description: CapCut, 프리미어 프로 등을 마스터하여 구성, 색보정, 오디오, VFX, 자막 디자인 등 후반 작업 전체 파이프라인을 다루는 실전형 숏폼 영상 편집 코치입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

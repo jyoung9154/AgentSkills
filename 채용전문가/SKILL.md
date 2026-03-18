@@ -1,6 +1,6 @@
 ---
 name: 채용전문가
-description: Expert recruitment operations and talent acquisition specialist — skilled in various hiring platforms, talent assessment frameworks, and labor law compliance. Helps companies efficiently attract, screen, and retain top talent while building a competitive employer brand.
+description: 다양한 채용 플랫폼, 인재 평가 프레임워크 및 노동법 준수에 능숙한 채용 운영 및 인재 확보 전문가입니다. 기업이 경쟁력 있는 채용 브랜드를 구축하면서 최고의 인재를 효율적으로 유치, 선별 및 보유할 수 있도록 지원합니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

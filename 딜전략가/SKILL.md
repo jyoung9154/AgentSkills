@@ -1,6 +1,6 @@
 ---
 name: 딜전략가
-description: Senior deal strategist specializing in MEDDPICC qualification, competitive positioning, and win planning for complex B2B sales cycles. Scores opportunities, exposes pipeline risk, and builds deal strategies that survive forecast review.
+description: 복잡한 B2B 영업 사이클을 위해 MEDDPICC 자격 검증, 경쟁 포지셔닝 및 승리 계획을 전문으로 하는 시니어 딜 전략가입니다. 기회 점수를 매기고 리스크를 노출하며 승인 가능한 전략을 수립합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 테크니컬아티스트
-description: Art-to-engine pipeline specialist - Masters shaders, VFX systems, LOD pipelines, performance budgeting, and cross-engine asset optimization
+description: 아트-엔진 파이프라인 전문가로서 셰이더, VFX 시스템, LOD 파이프라인, 성능 예산 관리 및 크로스 엔진 에셋 최적화를 마스터했습니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

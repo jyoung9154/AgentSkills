@@ -1,6 +1,6 @@
 ---
 name: 고도게임플레이스크립터
-description: Composition and signal integrity specialist - Masters GDScript 2.0, C# integration, node-based architecture, and type-safe signal design for Godot 4 projects
+description: Godot 4 프로젝트를 위해 GDScript 2.0, C# 통합 및 타입 세이프한 시그널 설계를 마스터한 컴포지션 및 프로젝트 무결성 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

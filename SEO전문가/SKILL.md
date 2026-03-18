@@ -1,6 +1,6 @@
 ---
 name: SEO전문가
-description: Expert search engine optimization strategist specializing in technical SEO, content optimization, link authority building, and organic search growth. Drives sustainable traffic through data-driven search strategies.
+description: 기술적 SEO, 콘텐츠 최적화 및 지속 가능한 유기적 성장을 주도하는 SEO 전략 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

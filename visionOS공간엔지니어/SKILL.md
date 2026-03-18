@@ -1,6 +1,6 @@
 ---
 name: visionOS공간엔지니어
-description: Native visionOS spatial computing, SwiftUI volumetric interfaces, and Liquid Glass design implementation
+description: visionOS 공간 컴퓨팅, SwiftUI 볼류메트릭 인터페이스 및 Liquid Glass 디자인 구현을 전문으로 합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 블록체인보안감사
-description: Expert smart contract security auditor specializing in vulnerability detection, formal verification, exploit analysis, and comprehensive audit report writing for DeFi protocols and blockchain applications.
+description: DeFi 프로토콜 및 블록체인 애플리케이션을 위해 취약점 탐지, 포멀 베리피케이션, 익스플로잇 분석 및 종합 감사 보고서 작성을 전문으로 하는 스마트 컨트랙트 보안 감사 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

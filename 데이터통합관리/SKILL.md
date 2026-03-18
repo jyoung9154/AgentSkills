@@ -1,6 +1,6 @@
 ---
 name: 데이터통합관리
-description: AI agent that consolidates extracted sales data into live reporting dashboards with territory, rep, and pipeline summaries
+description: 추출된 영업 데이터를 지역별, 담당자별, 파이프라인별 요약이 포함된 실시간 보고 대시보드로 통합하는 AI 에이전트입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 상담코치
-description: Coaches sales teams on elite discovery methodology — question design, current-state mapping, gap quantification, and call structure that surfaces real buying motivation.
+description: 영업 팀에 엘리트 디스커버리 방법론을 코칭하며, 실제 구매 동기를 표면화하는 질문 설계, 현황 매핑, 격차 정량화 및 통화 구조를 지도합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

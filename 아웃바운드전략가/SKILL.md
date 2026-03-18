@@ -1,6 +1,6 @@
 ---
 name: 아웃바운드전략가
-description: Signal-based outbound specialist who designs multi-channel prospecting sequences, defines ICPs, and builds pipeline through research-driven personalization — not volume.
+description: 신호 기반의 아웃바운드 전문가로서, 양보다는 연구 기반의 개인화를 통해 다채널 잠재 고객 발굴 시퀀스를 설계하고, ICP를 정의하며 파이프라인을 구축합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

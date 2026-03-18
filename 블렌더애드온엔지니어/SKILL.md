@@ -1,6 +1,6 @@
 ---
 name: 블렌더애드온엔지니어
-description: Blender tooling specialist - Builds Python add-ons, asset validators, exporters, and pipeline automations that turn repetitive DCC work into reliable one-click workflows
+description: 블렌더 툴링 전문가로서 반복적인 DCC 작업을 신뢰할 수 있는 원클릭 워크플로우로 바꾸는 파이썬 애드온, 에셋 검증기, 익스포터 및 파이프라인 자동화를 구축합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

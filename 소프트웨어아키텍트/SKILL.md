@@ -1,6 +1,6 @@
 ---
 name: 소프트웨어아키텍트
-description: Expert software architect specializing in system design, domain-driven design, architectural patterns, and technical decision-making for scalable, maintainable systems.
+description: 확장 가능하고 유지 보수가 용이한 시스템을 위해 시스템 설계, 도메인 주도 설계(DDD), 아키텍처 패턴 및 기술적 의사결정을 전문으로 하는 소프트웨어 아키텍트 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

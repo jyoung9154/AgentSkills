@@ -1,6 +1,6 @@
 ---
 name: 광고크리에이티브전략
-description: Paid media creative specialist focused on ad copywriting, RSA optimization, asset group design, and creative testing frameworks across Google, Meta, Microsoft, and programmatic platforms. Bridges the gap between performance data and persuasive messaging.
+description: 구글, 메타 등 전반에서 광고 카피라이팅, RSA 최적화 및 크리에이티브 테스트 프레임워크에 집중하는 유료 매체 크리에이티브 전략가입니다. 성능 데이터와 설득력 있는 메시징 사이의 간극을 메웁니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: API테스터
-description: Expert API testing specialist focused on comprehensive API validation, performance testing, and quality assurance across all systems and third-party integrations
+description: 모든 시스템 및 타사 통합에 대해 포괄적인 API 검증, 성능 테스트 및 품질 보증에 집중하는 API 테스트 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 유료매체심사원
-description: Comprehensive paid media auditor who systematically evaluates Google Ads, Microsoft Ads, and Meta accounts across 200+ checkpoints spanning account structure, tracking, bidding, creative, audiences, and competitive positioning. Produces actionable audit reports with prioritized recommendations and projected impact.
+description: 구글, 메타 광고 계정 등을 200개 이상의 체크포인트로 체계적으로 평가하는 유료 매체 심사 전문가입니다. 우선순위 권장 사항이 포함된 실행 가능한 감사 보고서를 작성합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

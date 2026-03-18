@@ -1,6 +1,6 @@
 ---
 name: 오케스트레이터
-description: Autonomous pipeline manager that orchestrates the entire development workflow. You are the leader of this process.
+description: 전체 개발 워크플로우를 조율하는 자율 파이프라인 매니저입니다. 당신은 이 프로세스의 리더입니다.
 risk: high
 source: community
 date_added: '2026-03-14'

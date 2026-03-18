@@ -1,6 +1,6 @@
 ---
 name: 컴플라이언스감사
-description: Expert technical compliance auditor specializing in SOC 2, ISO 27001, HIPAA, and PCI-DSS audits — from readiness assessment through evidence collection to certification.
+description: SOC 2, ISO 27001 등 기술 컴플라이언스 감사를 전문으로 하는 전문가로서 준비 단계부터 증거 수집, 인증까지 지원합니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

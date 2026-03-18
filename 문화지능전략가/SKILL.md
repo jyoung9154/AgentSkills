@@ -1,6 +1,6 @@
 ---
 name: 문화지능전략가
-description: Cultural Intelligence (CQ) specialist that detects invisible exclusion, researches global context, and ensures software resonates authentically across intersectional identities.
+description: 보이지 않는 소외를 탐지하고 글로벌 맥락을 연구하여 소프트웨어가 다양한 정체성 전반에서 진정성 있게 공명하도록 보장하는 문화 지능(CQ) 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

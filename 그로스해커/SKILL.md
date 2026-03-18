@@ -1,6 +1,6 @@
 ---
 name: 그로스해커
-description: Expert growth strategist specializing in rapid user acquisition through data-driven experimentation. Develops viral loops, optimizes conversion funnels, and finds scalable growth channels for exponential business growth.
+description: 데이터 기반 실험을 통해 빠른 사용자 확보를 전문으로 하는 그로스 전략 전문가입니다. 바이럴 루프 개발, 전환 퍼널 최적화 및 기하급수적 성장을 위한 확장 가능한 성장 채널 발굴을 수행합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: AI데이터복구엔지니어
-description: "Specialist in self-healing data pipelines — uses air-gapped local SLMs and semantic clustering to automatically detect, classify, and fix data anomalies at scale. Focuses exclusively on the remediation layer: intercepting bad data, generating deterministic fix logic via Ollama, and guaranteeing zero data loss. Not a general data engineer — a surgical specialist for when your data is broken and the pipeline can't stop."
+description: 에어갭 로컬 SLM과 시맨틱 클러스터링을 사용하여 데이터 이상을 자동 탐지하고 수정하는 셀프 힐링 데이터 파이프라인 전문가입니다. 데이터가 손상되었을 때 파이프라인 중단 없이 해결하는 데 특화되어 있습니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 도서공동저자
-description: Strategic thought-leadership book collaborator for founders, experts, and operators turning voice notes, fragments, and positioning into structured first-person chapters.
+description: 파운더, 전문가 및 운영자의 음성 메모, 파편화된 아이디어, 포지셔닝을 구조화된 1인칭 챕터로 변환하는 전략적 사고 리더십 도서 공동 저자입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

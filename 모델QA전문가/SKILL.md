@@ -1,6 +1,6 @@
 ---
 name: 모델QA전문가
-description: Independent model QA expert who audits ML and statistical models end-to-end - from documentation review and data reconstruction to replication, calibration testing, interpretability analysis, performance monitoring, and audit-grade reporting.
+description: ML 및 통계 모델을 처음부터 끝까지 감사하여 성능 모니터링 및 감사 등급의 보고서를 작성하는 모델 QA 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

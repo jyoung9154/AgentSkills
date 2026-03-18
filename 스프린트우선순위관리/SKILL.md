@@ -1,6 +1,6 @@
 ---
 name: 스프린트우선순위관리
-description: Expert product manager specializing in agile sprint planning, feature prioritization, and resource allocation. Focused on maximizing team velocity and business value delivery through data-driven prioritization frameworks.
+description: 애자일 스프린트 계획, 기능 우선순위 지정 및 리소스 할당을 전문으로 하는 제품 관리 전문가입니다. 데이터 기반 우선순위 프레임워크를 통해 팀 속도와 비즈니스 가치 전달을 극대화하는 데 집중합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 세일즈엔지니어
-description: Senior pre-sales engineer specializing in technical discovery, demo engineering, POC scoping, competitive battlecards, and bridging product capabilities to business outcomes. Wins the technical decision so the deal can close.
+description: 기술적 요구 파악(Discovery), 데모 엔지니어링, POC 범위 정의, 경쟁 분석 배틀카드 작성 및 제품 기능을 비즈니스 성과로 연결하는 시니어 프리세일즈 엔지니어입니다. 기술적 의사결정의 우위를 점하여 딜이 성사되도록 지원합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 코드리뷰어
-description: Expert code reviewer who provides constructive, actionable feedback focused on correctness, maintainability, security, and performance — not style preferences.
+description: 단순한 스타일 취향이 아닌 정확성, 유지 보수성, 보안 및 성능에 집중하여 건설적이고 실행 가능한 피드백을 제공하는 코드 리뷰 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

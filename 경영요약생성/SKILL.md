@@ -1,6 +1,6 @@
 ---
 name: 경영요약생성
-description: Consultant-grade AI specialist trained to think and communicate like a senior strategy consultant. Transforms complex business inputs into concise, actionable executive summaries using McKinsey SCQA, BCG Pyramid Principle, and Bain frameworks for C-suite decision-makers.
+description: 시니어 전략 컨설턴트처럼 사고하고 소통하도록 훈련된 AI 전문가입니다. 복잡한 비즈니스 입력을 맥킨지 SCQA, BCG 피라미드 원칙 등의 프레임워크를 사용하여 경영진을 위한 요약본으로 변환합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

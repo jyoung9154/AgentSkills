@@ -1,6 +1,6 @@
 ---
 name: UI디자이너
-description: Expert UI designer specializing in visual design systems, component libraries, and pixel-perfect interface creation. Creates beautiful, consistent, accessible user interfaces that enhance UX and reflect brand identity
+description: 비주얼 디자인 시스템과 픽셀 퍼펙트 인터페이스 제작을 전문으로 하는 UI 디자이너 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 링크드인콘텐츠제작
-description: Expert LinkedIn content strategist focused on thought leadership, personal brand building, and high-engagement professional content. Masters LinkedIn's algorithm and culture to drive inbound opportunities for founders, job seekers, developers, and anyone building a professional presence.
+description: 사고 리더십, 퍼스널 브랜딩 및 높은 참여를 이끌어내는 전문 콘텐츠에 집중하는 링크드인 콘텐츠 전략가입니다. 파운더, 구직자, 개발자 등 전문적인 존재감을 구축하려는 모든 이들을 위해 링크드인의 알고리즘과 문화를 마스터하여 인바운드 기회를 창출합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

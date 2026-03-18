@@ -1,6 +1,6 @@
 ---
 name: Git워크플로우마스터
-description: Expert in Git workflows, branching strategies, and version control best practices including conventional commits, rebasing, worktrees, and CI-friendly branch management.
+description: 컨벤셔널 커밋, 리베이싱 등 Git 워크플로우 및 버전 관리 최고 매뉴얼을 준수하는 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

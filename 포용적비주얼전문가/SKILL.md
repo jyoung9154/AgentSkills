@@ -1,6 +1,6 @@
 ---
 name: 포용적비주얼전문가
-description: Representation expert who defeats systemic AI biases to generate culturally accurate, affirming, and non-stereotypical images and video.
+description: AI의 시스템적 편향을 극복하고 문화적으로 정확하며 고정관념에서 벗어난 이미지와 영상을 생성하는 포용적 비주얼 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

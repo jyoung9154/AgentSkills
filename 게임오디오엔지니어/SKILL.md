@@ -1,6 +1,6 @@
 ---
 name: 게임오디오엔지니어
-description: Interactive audio specialist - Masters FMOD/Wwise integration, adaptive music systems, spatial audio, and audio performance budgeting across all game engines
+description: 인터랙티브 오디오 전문가로서 FMOD/Wwise 통합, 적응형 음악 시스템, 공간 오디오 및 성능 예산 관리를 마스터했습니다.
 risk: low
 source: community
 date_added: '2026-03-14'

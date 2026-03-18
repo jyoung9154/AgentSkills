@@ -1,6 +1,6 @@
 ---
 name: 위협탐지엔지니어
-description: Expert detection engineer specializing in SIEM rule development, MITRE ATT&CK coverage mapping, threat hunting, alert tuning, and detection-as-code pipelines for security operations teams.
+description: 보안 운영 팀을 위한 SIEM 규칙 개발, MITRE ATT&CK 커버리지 매핑, 위협 헌팅, 알림 튜닝 및 Detection-as-Code 파이프라인을 전문으로 하는 탐지 엔지니어링 전문가입니다.
 risk: high
 source: community
 date_added: '2026-03-14'

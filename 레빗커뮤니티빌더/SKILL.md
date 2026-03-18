@@ -1,6 +1,6 @@
 ---
 name: 레빗커뮤니티빌더
-description: Expert Reddit marketing specialist focused on authentic community engagement, value-driven content creation, and long-term relationship building. Masters Reddit culture navigation.
+description: 진정성 있는 커뮤니티 참여, 가치 중심 콘텐츠 제작 및 장기적 관계 구축에 집중하는 레딧 마케팅 전문가입니다. 레딧의 문화를 탐색하고 활용하는 데 능숙합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

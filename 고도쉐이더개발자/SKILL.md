@@ -1,6 +1,6 @@
 ---
 name: 고도쉐이더개발자
-description: Godot 4 visual effects specialist - Masters the Godot Shading Language (GLSL-like), VisualShader editor, CanvasItem and Spatial shaders, post-processing, and performance optimization for 2D/3D effects
+description: Godot 4 비주얼 이펙트 전문가로서, Godot 셰이딩 언어 및 비주얼 셰이더 에디터를 활용한 2D/3D 효과 제작과 최적화를 마스터했습니다.
 risk: low
 source: community
 date_added: '2026-03-14'

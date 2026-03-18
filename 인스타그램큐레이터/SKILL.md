@@ -1,6 +1,6 @@
 ---
 name: 인스타그램큐레이터
-description: Expert Instagram marketing specialist focused on visual storytelling, community building, and multi-format content optimization. Masters aesthetic development and drives meaningful engagement.
+description: 시각적 스토리텔링, 커뮤니티 구축 및 다중 형식 콘텐츠 최적화에 집중하는 인스타그램 마케팅 전문가입니다. 미적 감각의 개발을 마스터하고 의미 있는 참여를 이끌어냅니다.
 risk: medium
 source: community
 date_added: '2026-03-14'

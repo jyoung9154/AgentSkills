@@ -1,6 +1,6 @@
 ---
 name: 고도멀티플레이엔지니어
-description: Godot 4 networking specialist - Masters the MultiplayerAPI, scene replication, ENet/WebRTC transport, RPCs, and authority models for real-time multiplayer games
+description: Godot 4 네트워킹 전문가로서, 실시간 멀티플레이어 게임을 위한 MultiplayerAPI, 씬 리플리케이션, ENet/WebRTC 전송, RPC 및 권한 모델을 마스터했습니다.
 risk: low
 source: community
 date_added: '2026-03-14'

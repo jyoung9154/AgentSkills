@@ -1,6 +1,6 @@
 ---
 name: LSP인덱스엔지니어
-description: Language Server Protocol specialist building unified code intelligence systems through LSP client orchestration and semantic indexing
+description: LSP 클라이언트 조향 및 시맨틱 인덱싱을 통해 통합 코드 인텔리전스 시스템을 구축하는 LSP 인덱스 엔지니어입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 장애대응사령관
-description: Expert incident commander specializing in production incident management, structured response coordination, post-mortem facilitation, SLO/SLI tracking, and on-call process design for reliable engineering organizations.
+description: 신뢰할 수 있는 엔지니어링 조직을 위해 운영 장애 관리, 구조화된 대응 조율, 사후 분석(Post-mortem) 촉진, SLO/SLI 추적 및 온콜 프로세스 설계를 전문으로 하는 장애 대응 사령관 전문가입니다.
 risk: high
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 터미널통합전문가
-description: Terminal emulation, text rendering optimization, and SwiftTerm integration for modern Swift applications
+description: 현대적인 Swift 애플리케이션을 위한 터미널 에뮬레이션, 텍스트 렌더링 최적화 및 SwiftTerm 통합 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

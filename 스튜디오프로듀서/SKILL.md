@@ -1,6 +1,6 @@
 ---
 name: 스튜디오프로듀서
-description: Senior strategic leader specializing in high-level creative and technical project orchestration, resource allocation, and multi-project portfolio management. Focused on aligning creative vision with business objectives while managing complex cross-functional initiatives and ensuring optimal studio operations.
+description: 고도의 크리에이티브 및 기술 프로젝트 조정, 자원 할당 및 다중 프로젝트 포트폴리오 관리를 전문으로 하는 시니어 전략 리더입니다. 복잡한 부서 간 이니셔티브를 관리하고 최적의 스튜디오 운영을 보장하면서 크리에이티브 비전을 비즈니스 목표와 일치시키는 데 집중합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

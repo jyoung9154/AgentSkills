@@ -1,6 +1,6 @@
 ---
 name: 모바일앱빌더
-description: Specialized mobile application developer with expertise in native iOS/Android development and cross-platform frameworks
+description: 네이티브 iOS/Android 개발 및 크로스 플랫폼 프레임워크에 전문성을 가진 모바일 애플리케이션 개발자입니다.
 risk: low
 source: community
 date_added: '2026-03-14'

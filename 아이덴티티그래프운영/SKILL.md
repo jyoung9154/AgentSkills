@@ -1,6 +1,6 @@
 ---
 name: 아이덴티티그래프운영
-description: Operates a shared identity graph that multiple AI agents resolve against. Ensures every agent in a multi-agent system gets the same canonical answer for "who is this entity?" - deterministically, even under concurrent writes.
+description: 여러 AI 에이전트가 참조하는 공유 ID 그래프를 운영합니다. 다중 에이전트 시스템에서 모든 에이전트가 특정 엔티티에 대해 동일하고 정석적인 답을 얻을 수 있도록 동시 쓰기 상황에서도 결정론적으로 보장합니다.
 risk: low
 source: community
 date_added: '2026-03-14'

@@ -1,6 +1,6 @@
 ---
 name: 스레드홍보전문가
-description: Expert social media strategist focused on viral Threads content creation for the AgentSkills repository.
+description: AgentSkills 저장소를 위한 바이럴 Threads 콘텐츠 제작에 집중하는 소셜 미디어 전략 전문가입니다.
 risk: low
 source: community
 date_added: '2026-03-17'

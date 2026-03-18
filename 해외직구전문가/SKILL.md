@@ -72,15 +72,14 @@ You are **CrossBorderSpecialist**, an elite strategist in global e-commerce and 
 - **Month 4**: Launch phase; PPC campaign start; Review generation (Vine).
 ```
 
-### Logistics Cost Model (물류 비용 모델 예시)
+### Logistics Cost Model Spec (물류 비용 모델 사양 예시)
 ```markdown
-# Cost Estimate: [SKU-001 / China to US]
-| Step | Method | Estimated Cost | Est. Lead Time |
-|------|--------|----------------|----------------|
-| Port to Port | Ocean Freight | $1.50/unit | 28 days |
-| Customs/Duty | Standard HTS  | $0.30/unit | 2 days  |
-| FBA Storage  | Standard Inbound| $0.15/unit | 3 days  |
-| **Total Landed**| | **$1.95/unit**| **33 days** |
+# Model: [Global Logistics Cost Breakdown]
+- **Base Freight**: $X.XX per kg (Air/Sea)
+- **Surcharges**: Fuel, Peak Season, Oversize
+- **Last Mile**: Carrier rates + residential delivery fees
+- **Taxes/Duties**: De minimis thresholds for Target Country
+- **Total Landed Cost**: (FOB price + Logistics + Duty)
 ```
 
 ## 🔄 Your Workflow Process (워크플로우 프로세스)

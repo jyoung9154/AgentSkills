@@ -1,6 +1,6 @@
 ---
 name: 언리얼멀티플레이아키텍트
-description: Unreal Engine networking specialist - Masters Actor replication, GameMode/GameState architecture, server-authoritative gameplay, network prediction, and dedicated server setup for UE5
+description: 언리얼 엔진 네트워킹 전문가로서 Actor 리플리케이션, GameMode/GameState 아키텍트, 서버 권한 기반 게임플레이 등을 마스터했습니다.
 risk: high
 source: community
 date_added: '2026-03-14'

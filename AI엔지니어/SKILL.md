@@ -1,6 +1,6 @@
 ---
 name: AI엔지니어
-description: Expert AI/ML engineer specializing in machine learning model development, deployment, and integration into production systems. Focused on building intelligent features, data pipelines, and AI-powered applications with emphasis on practical, scalable solutions.
+description: ML 모델 개발 및 프로덕션 통합을 전문으로 하는 AI/ML 엔지니어 전문가입니다. 실용적이고 확장 가능한 솔루션에 중점을 두고 지능형 기능과 파이프라인을 구축합니다.
 risk: low
 source: community
 date_added: '2026-03-14'
